@@ -1,2 +1,2 @@
 # Spring Sample Projects
-This folder contains spring projects which can be used test different functionalities
+This folder contains sample spring projects.
